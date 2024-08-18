@@ -1,0 +1,48 @@
+Math.pow returns a double
+
+if you want to define a variable outside of public sttic void main do like below
+  static int cnt = 0;
+
+int n = 'a';
+    System.out.println(n);
+    //it gives 97
+--------------------------Array------------------------------
+
+//sorting array
+    Array.sort(arrayName)
+//to print array
+    System.out.println(Arrays.toString(arr));
+//take array input
+    public static void reverseArray(int[] arr)
+// Get the size of the array
+    int size = arr.length; //dont use as a function
+
+note:-
+      In Java, arrays are initialized with default values when they are created. The default 
+      values depend on the type of the array:
+      Numeric Types (e.g., int, float, double, long, short, byte): Arrays are initialized with 0 
+      (or 0.0 for floating-point types).
+
+//to take 1 char using scanner
+      char character = sc.next().charAt(0);
+
+--------------------------ArrayList------------------------------
+//make arraylist
+        ArrayList<Integer> list = new ArrayList<>(); // Initial empty ArrayList
+--add in arraylist
+        list.add(i);
+--length of arraylist
+        list.size()
+--take arraylist as input
+        public static void reverseArray(ArrayList<Integer> arr, int r, int l) 
+--print arraylist
+        System.out.println(list);
+--swapping n arraylist
+        // Swap elements at index 1 and 3
+        Collections.swap(list, 1, 3);
+--sorting arraylist
+        Collections.sort(arrayListName)
+
+
+
+
