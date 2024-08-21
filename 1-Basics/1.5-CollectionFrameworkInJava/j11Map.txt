@@ -1,0 +1,3 @@
+Map is different from collection 
+as map is used to store key value pair 
+while collection are used to store values

@@ -1,0 +1,4 @@
+It has four types of set enumSet, hashSet, LinkedHashSet and treeSet
+enumSet used very LinkedHashSet
+
+All follow the sed property that there will be no duplicate element

@@ -1,8 +1,10 @@
 {
   "java.project.sourcePaths": [
+    "1-Basics/1.4-Hashing",
     "1-Basics/1.3Recursion",
     "1-Basics/1.2BasicMath",
     "1-Basics/1.1-Patterns",
-    "1-Basics/1.4-Hashing"
-  ]
+    "1-Basics/1.5-CollectionFrameworkInJava"
+  ],
+  "prettier.printWidth": 120
 }
