@@ -3,8 +3,8 @@ import java.util.Map;
 
 public class j12HashMap {
   public static void main(String[] args) {
-    // keys are all unique in it
-    // O(1)
+    // map.get(Object key) method is used to retrieve the value associated with a
+    // specific key in a Map
 
     Map<String, Integer> num = new HashMap<>();
 
