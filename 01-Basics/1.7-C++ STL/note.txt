@@ -1,0 +1,6 @@
+lower bound return a iterator to the position
+            if given a number not in structure it will point to next greater number
+
+upper_bound return a iterator to the next grater number than given number
+            if not in array it will greater element
+            if do not have greater it return an iterator pointing to end
